@@ -1,0 +1,8 @@
+langgraph
+langchain-openai
+pydantic
+langchain-google-genai 
+langchain-ibm 
+langchain-groq 
+langchain-anthropic 
+python-dotenv
